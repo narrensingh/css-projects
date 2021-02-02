@@ -1,14 +1,17 @@
 .container-1,
-.container-2 {
+.container-2,
+.container-3 {
   border: 2px solid black;
 }
 
-.container-2 {
+.container-2,
+.container-3 {
   margin-top: 20px;
 }
 
 .flex-box-container-1,
-.container-2-buttons {
+.container-2-buttons,
+.container-3-buttons {
   border: 2px solid black;
   display: flex;
   padding: 10px;
@@ -29,7 +32,8 @@ body {
   padding-top: 40px;
 }
 
-.container-2-img {
+.container-2-img,
+.container-3-img {
   display: flex;
   justify-content: space-around;
   border: 2px black solid;
